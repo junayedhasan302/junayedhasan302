@@ -46,11 +46,11 @@ learning new technologies in software development.
   <a href="https://github.com/junayedhasan302">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://x.com/junayed_jh">
     <img src="https://cdn.simpleicons.org/x/000000" width="32" height="32" alt="X"/>
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/>
   </a>
