@@ -6,20 +6,26 @@
 
 <br>
 
-<!-- ======================= INTRO ======================= -->
+<!-- ======================= TITLE ======================= -->
 
-<h1 align="center">Hi 👋, I'm Junayed Hasan</h1>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h1 style="display: inline-block">
+        Hi 👋, I'm Junayed Hasan
+      </h1>
+    </summary>
 
-<h3 align="center">
-  💻 Learning Web Development | CSE Student
-</h3>
+    <a href="https://git.io/typing-svg">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Learning+Web+Development;CSE+Student;JavaScript+%26+TypeScript+Learner;Building+Projects+%26+Learning+Every+Day"
+        alt="Typing SVG"
+      />
+    </a>
+  </ul>
+</div>
 
-<p align="center">
-  I'm currently learning and building my way into Web Development,
-  one project at a time.
-</p>
-
----
+<br/>
 
 <!-- ======================= ABOUT ME ======================= -->
 
