@@ -1,23 +1,168 @@
+<!-- ======================= BANNER ======================= -->
+
 <p align="center">
   <img src="./banner.png" alt="Junayed Hasan GitHub Banner" width="100%">
 </p>
-# 👋 Hey, I'm **Junayed Hasan**:
 
-🌱 Currently developing my skills in JavaScript, TypeScript, React, Node.js and Next.js<br><br>🛠️ Learning through hands-on projects and practical development challenges<br><br>🎨 Enjoy creating clean, responsive and user-friendly web experiences<br><br>🌱 I’m currently learning React ⚛︎<br><br>💬 Ask me about HTML, CSS, TAILWIND
+<br>
 
+<!-- ======================= INTRO ======================= -->
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/junayed.hasan.302) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jhjunayed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/junayet-hasan-jh) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/junayedhasan302) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Junayed-Hasan-108) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/junayed_jh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junayedhasan302@gmail.com) 
+<h1 align="center">Hi 👋, I'm Junayed Hasan</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=junayedhasan302&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=junayedhasan302&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=junayedhasan302&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">
+  💻 Learning Web Development | CSE Student
+</h3>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/junayedhasan) 
+<p align="center">
+  I'm currently learning and building my way into Web Development,
+  one project at a time.
+</p>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<!-- ======================= ABOUT ME ======================= -->
+
+## 👨‍💻 About Me
+
+I'm a Computer Science student with a growing interest in
+Web Development and modern web technologies.
+
+I enjoy learning by building real-world projects, experimenting
+with new technologies, and improving my programming and
+problem-solving skills.
+
+Currently, I'm focused on strengthening my fundamentals and
+building a solid foundation for my journey as a Web Developer.
+
+📍 Dhaka, Bangladesh  
+📧 junayedhasan302@gmail.com
+
+---
+
+<!-- ======================= CURRENTLY ======================= -->
+
+## 🔭 Currently
+
+- 🌱 Learning **Web Development**
+- ⚡ Exploring **JavaScript & TypeScript**
+- 🎨 Building responsive websites with **HTML, CSS & Tailwind CSS**
+- 💻 Strengthening my programming skills with **C & C++**
+- 🚀 Exploring modern web technologies
+- 📚 Improving my problem-solving skills through practice
+- 🛠️ Building projects to gain practical experience
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🧰 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+<!-- ======================= PROJECTS ======================= -->
+
+## 🚀 Featured Projects
+
+### 🌐 Assignment 01 — Frontend Project
+
+A responsive frontend website built as part of my
+Web Development learning journey.
+
+**Tech Stack:** HTML • CSS • Tailwind CSS
+
+🔗 **Live Demo:**  
+https://junayedhasan302.github.io/assignment-01/
+
+💻 **Source Code:**  
+https://github.com/junayedhasan302/assignment-01
+
+---
+
+<!-- ======================= CONNECT ======================= -->
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/junayet-hasan-jh/">
+  <img src="https://img.shields.io/badge/LinkedIn-6C3BD1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.facebook.com/junayed.hasan.302">
+  <img src="https://img.shields.io/badge/Facebook-6C3BD1?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<a href="mailto:junayedhasan302@gmail.com">
+  <img src="https://img.shields.io/badge/Email-6C3BD1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/junayedhasan302">
+  <img src="https://img.shields.io/badge/GitHub-6C3BD1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</p>
+
+---
+
+<!-- ======================= GITHUB STATS ======================= -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=junayedhasan302&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayedhasan302&layout=compact&theme=midnight-purple&hide_border=true" height="180"/>
+
+</p>
+
+---
+
+<!-- ======================= STREAK ======================= -->
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=junayedhasan302&theme=midnight-purple&hide_border=true" />
+</p>
+
+---
+
+<!-- ======================= PROFILE VIEWS ======================= -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=junayedhasan302&label=Profile%20Views&color=6C3BD1&style=flat" />
+</p>
+
+---
+
+<!-- ======================= FOOTER ======================= -->
+
+<p align="center">
+  <i>“Learning. Building. Improving. 🚀”</i>
+</p>
