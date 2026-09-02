@@ -6,30 +6,22 @@
 
 <br/>
 
-<!-- ======================= TITLE ======================= -->
+<!-- ======================= INTRO ======================= -->
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 style="display: inline-block">
-        Hi 👋, I'm Junayed Hasan
-      </h1>
-    </summary>
+<h1 align="center">Hi 👋, I'm Junayed Hasan</h1>
 
-    <a href="https://git.io/typing-svg">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Learning+Web+Development;CSE+Student;JavaScript+%26+TypeScript+Learner;Building+Projects+%26+Learning+Every+Day"
-        alt="Typing SVG"
-      />
-    </a>
-  </ul>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Learning+Web+Development;CSE+Student;JavaScript+%26+TypeScript+Learner;Building+Projects+%26+Learning+Every+Day"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <br/>
 
 ---
-
-<!-- ======================= ABOUT ME ======================= -->
 
 ## 👨‍💻 About Me
 
