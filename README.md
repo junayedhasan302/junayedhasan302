@@ -4,7 +4,7 @@
   <img src="./banner.png" alt="Junayed Hasan GitHub Banner" width="100%">
 </p>
 
-<br>
+<br/>
 
 <!-- ======================= TITLE ======================= -->
 
@@ -27,6 +27,8 @@
 
 <br/>
 
+---
+
 <!-- ======================= ABOUT ME ======================= -->
 
 ## 👨‍💻 About Me
@@ -35,14 +37,14 @@ I'm a Computer Science student with a growing interest in
 Web Development and modern web technologies.
 
 I enjoy learning by building real-world projects, experimenting
-with new technologies, and improving my programming and
-problem-solving skills.
+with new technologies, and continuously improving my programming
+and problem-solving skills.
 
 Currently, I'm focused on strengthening my fundamentals and
 building a solid foundation for my journey as a Web Developer.
 
 📍 Dhaka, Bangladesh  
-📧 junayedhasan302@gmail.com
+📧 [junayedhasan302@gmail.com](mailto:junayedhasan302@gmail.com)
 
 ---
 
@@ -92,7 +94,7 @@ building a solid foundation for my journey as a Web Developer.
 
 <!-- ======================= PROJECTS ======================= -->
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🌐 Assignment 01 — Frontend Project
 
@@ -109,26 +111,38 @@ https://github.com/junayedhasan302/assignment-01
 
 ---
 
-<!-- ======================= CONNECT ======================= -->
+<!-- ======================= SOCIAL LINKS ======================= -->
 
 ## 🌐 Connect With Me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/junayet-hasan-jh/">
-  <img src="https://img.shields.io/badge/LinkedIn-6C3BD1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-6C3BD1?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://www.facebook.com/junayed.hasan.302">
-  <img src="https://img.shields.io/badge/Facebook-6C3BD1?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <img
+    src="https://img.shields.io/badge/Facebook-6C3BD1?style=for-the-badge&logo=facebook&logoColor=white"
+    alt="Facebook"
+  />
 </a>
 
 <a href="mailto:junayedhasan302@gmail.com">
-  <img src="https://img.shields.io/badge/Email-6C3BD1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img
+    src="https://img.shields.io/badge/Email-6C3BD1?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 <a href="https://github.com/junayedhasan302">
-  <img src="https://img.shields.io/badge/GitHub-6C3BD1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-6C3BD1?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 </p>
@@ -141,20 +155,33 @@ https://github.com/junayedhasan302/assignment-01
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=junayedhasan302&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=junayedhasan302&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"
+    height="180"
+    alt="Junayed Hasan GitHub Stats"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayedhasan302&layout=compact&theme=midnight-purple&hide_border=true" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayedhasan302&layout=compact&theme=midnight-purple&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 
 </p>
 
 ---
 
-<!-- ======================= STREAK ======================= -->
+<!-- ======================= GITHUB STREAK ======================= -->
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=junayedhasan302&theme=midnight-purple&hide_border=true" />
+
+  <img
+    src="https://streak-stats.demolab.com?user=junayedhasan302&theme=midnight-purple&hide_border=true"
+    alt="GitHub Streak"
+  />
+
 </p>
 
 ---
@@ -162,7 +189,12 @@ https://github.com/junayedhasan302/assignment-01
 <!-- ======================= PROFILE VIEWS ======================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=junayedhasan302&label=Profile%20Views&color=6C3BD1&style=flat" />
+
+  <img
+    src="https://komarev.com/ghpvc/?username=junayedhasan302&label=Profile%20Views&color=6C3BD1&style=flat"
+    alt="Profile Views"
+  />
+
 </p>
 
 ---
@@ -170,5 +202,9 @@ https://github.com/junayedhasan302/assignment-01
 <!-- ======================= FOOTER ======================= -->
 
 <p align="center">
-  <i>“Learning. Building. Improving. 🚀”</i>
+
+  <i>
+    “Learning. Building. Improving. 🚀”
+  </i>
+
 </p>
