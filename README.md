@@ -1,7 +1,8 @@
 <p align="center">
   <img src="./banner.png" alt="Junayed Hasan GitHub Banner" width="100%">
 </p>
-# 👋 Hey, I'm Junayed Hasan:
+# 👋 Hey, I'm **Junayed Hasan**:
+
 🌱 Currently developing my skills in JavaScript, TypeScript, React, Node.js and Next.js<br><br>🛠️ Learning through hands-on projects and practical development challenges<br><br>🎨 Enjoy creating clean, responsive and user-friendly web experiences<br><br>🌱 I’m currently learning React ⚛︎<br><br>💬 Ask me about HTML, CSS, TAILWIND
 
 
