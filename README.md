@@ -1,5 +1,4 @@
 <!-- ======================= BANNER ======================= -->
-
 <p align="center">
   <img src="./banner.png" alt="Junayed Hasan GitHub Banner" width="100%">
 </p>
@@ -196,5 +195,4 @@ https://github.com/junayedhasan302/assignment-01
   <i>
     “Learning. Building. Improving. 🚀”
   </i>
-
 </p>
