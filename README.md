@@ -2,10 +2,8 @@
 <p align="center">
   <img src="./banner.png" alt="Junayed Hasan GitHub Banner" width="100%">
 </p>
-
 <br/>
-
-<h1 align="center">Hi 👋, I'm Junayed Hasan</h1>
+<h1 align="center">Hey 👋, I'm Junayed Hasan</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
