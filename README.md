@@ -18,7 +18,8 @@
 <br/>
 
 ---
-
+ReactJS Full Doc In Bangla: https://github.com/junayedhasan302/React/blob/main/README.md
+NextJS Full Doc In Bangla: [https://github.com/junayedhasan302/React/blob/main/README.md](https://github.com/junayedhasan302/NextJS/blob/main/README.md)
 ## 👨‍💻 About Me
 
 I'm a Computer Science student with a growing interest in
