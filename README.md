@@ -27,7 +27,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/junayedhasan302/React/blob/main/README.md">
-    <b>React.js Docs in Bangla</b>
+    <b>React.js Docs in Bangla </b>
   </a>
 </p>
 
@@ -37,7 +37,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/junayedhasan302/NextJS/blob/main/README.md">
-    <b>Next.js Docs in Bangla</b>
+    <b>Next.js Docs in Bangla </b>
   </a>
 </p>
 
