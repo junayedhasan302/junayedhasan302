@@ -136,7 +136,7 @@ https://github.com/junayedhasan302/assignment-01
 
 <a href="https://www.facebook.com/junayed.hasan.302">
   <img
-    src="https://img.shields.io/badge/Facebook-6C3BD1?style=for-the-badge&logo=facebook&logoColor=white"
+    src="https://img.shields.io/badge/Facebook-6C3BD1?style=for-the-badge&logo=facebook&logoColor=white "
     alt="Facebook"
   />
 </a>
