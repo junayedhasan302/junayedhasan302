@@ -1,220 +1,182 @@
-<!-- ======================= BANNER ======================= -->
-<p align="center">
-  <img src="./banner.png" alt="Junayed Hasan GitHub Banner" width="100%">
-</p>
+from pathlib import Path
 
-<br/>
-<h1 align="center">Hey 👋, I'm Junayed Hasan</h1>
+md = r'''# Junayed Hasan
 
+> **CSE Student & Web Development Learner**
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Learning+Web+Development;Aspiring+Competitive+Programmer;JavaScript+%26+TypeScript+Learner;Building+Projects+%26+Learning+Every+Day"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
-
-<br/>
+Passionate about **problem solving, web development, photography, chess, and mathematics.**
 
 ---
 
-## 📚 Documentation
+## 👋 Hello, I'm Junayed Hasan
 
-<p align="left">
-  <a href="https://github.com/junayedhasan302/React/blob/main/README.md">
-    <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" alt="React.js" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/junayedhasan302/React/blob/main/README.md">
-    <b>REACT.JS Docs in Bangla </b>
-  </a>
-</p>
+I am currently studying **Computer Science and Engineering** and focusing on improving my web development skills. I enjoy learning by building real projects and solving programming problems.
 
-<p align="left">
-  <a href="https://github.com/junayedhasan302/NextJS/blob/main/README.md">
-    <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" alt="Next.js" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/junayedhasan302/NextJS/blob/main/README.md">
-    <b>NEXT.JS Docs in Bangla </b>
-  </a>
-</p>
-
-## 👨‍💻 About Me
-
-I'm a Computer Science student with a growing interest in
-Web Development and modern web technologies.
-
-I enjoy learning by building real-world projects, experimenting
-with new technologies, and continuously improving my programming
-and problem-solving skills.
-
-Currently, I'm focused on strengthening my fundamentals and
-building a solid foundation for my journey as a Web Developer.
-
-📍 Dhaka, Bangladesh  
-📧 [junayedhasan302@gmail.com](mailto:junayedhasan302@gmail.com)
+My current focus is **React and Next.js**, while continuously improving my **JavaScript, TypeScript, problem solving, and software development fundamentals.**
 
 ---
 
-<!-- ======================= CURRENTLY ======================= -->
+## 🎓 Education
 
-## 🔭 Currently
+### Bachelor of Science in CSE
 
-- 🌱 Learning **Web Development**
-- ⚡ Exploring **JavaScript & TypeScript**
-- 🎨 Building responsive websites with **HTML, CSS & Tailwind CSS**
-- 💻 Strengthening my programming skills with **C & C++**
-- 🚀 Exploring modern web technologies
-- 📚 Improving my problem-solving skills through practice
-- 🛠️ Building projects to gain practical experience
+**Bangladesh University of Business & Technology (BUBT)**
+
+Department of Computer Science & Engineering
 
 ---
 
-<!-- ======================= TECH STACK ======================= -->
+## 🔗 Connect
+
+- [GitHub](https://github.com/junayedhasan302)
+- [LinkedIn](https://www.linkedin.com/in/junayet-hasan-jh/)
+- [Twitter / X](https://x.com/junayed_jh)
+- [Facebook](https://www.facebook.com/junayed.hasan.302/)
+- [Instagram](https://www.instagram.com/jhjunayed/)
+- [Quora](https://bn.quora.com/profile/Junayed-Hasan-108)
+- [Chess.com](https://www.chess.com/member/jhjunayed)
+- [LeetCode](https://leetcode.com/u/jhjunayed/)
+- [Codeforces](https://codeforces.com/profile/mjunayed302)
+- [Pexels](https://www.pexels.com/@junayed-hasan-2156679708/)
+
+---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [TypeScript](https://www.typescriptlang.org/docs/)
+- [React](https://react.dev/)
+- [Next.js](https://nextjs.org/docs)
+- [Tailwind CSS](https://tailwindcss.com/docs)
+- [Git](https://git-scm.com/doc)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
-</p>
-
-### 🌐 Web Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
-</p>
-
-### 🗄️ Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🧰 Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+Click any technology to open its documentation.
 
 ---
 
-<!-- ======================= PROJECTS ======================= -->
+## 👨‍💻 About Me
 
-## 🚀 Featured Project
+### A learner who loves to build.
 
-### 🌐 Assignment 01 — Frontend Project
+I am currently studying Computer Science and Engineering and focusing on improving my web development skills. I enjoy learning by building real projects and solving programming problems.
 
-A responsive frontend website built as part of my
-Web Development learning journey.
-
-**Tech Stack:** HTML • CSS • Tailwind CSS
-
-🔗 **Live Demo:**  
-https://junayedhasan302.github.io/assignment-01/
-
-💻 **Source Code:**  
-https://github.com/junayedhasan302/assignment-01
+My current focus is React and Next.js, while continuously improving my JavaScript, TypeScript, problem solving, and software development fundamentals.
 
 ---
 
-<!-- ======================= SOCIAL LINKS ======================= -->
+## 🚀 Projects
 
-## 🌐 Connect With Me
+### 1. JH DevStack
 
-<p align="left">
+**Personal developer portfolio and web development showcase.**
 
-<a href="https://www.linkedin.com/in/junayet-hasan-jh/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-6C3BD1?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
+**Tech:** React · JavaScript · CSS
 
-<a href="https://www.facebook.com/junayed.hasan.302">
-  <img
-    src="https://img.shields.io/badge/Facebook-6C3BD1?style=for-the-badge&logo=facebook&logoColor=white "
-    alt="Facebook"
-  />
-</a>
-
-<a href="mailto:junayedhasan302@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-6C3BD1?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<a href="https://github.com/junayedhasan302">
-  <img
-    src="https://img.shields.io/badge/GitHub-6C3BD1?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-</p>
+🔗 [Live Project](https://jhdevstack.netlify.app/)
 
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
+### 2. FitLog
 
-## 📊 GitHub Stats
+**Workout management app for exploring exercises, saving workouts, and creating workout plans.**
 
-<p align="center">
+**Tech:** Next.js · React · Tailwind CSS
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=junayedhasan302&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"
-    height="180"
-    alt="Junayed Hasan GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayedhasan302&layout=compact&theme=midnight-purple&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
-
-</p>
+🔗 [Live Project](https://jhfitlog.vercel.app/)
 
 ---
 
-<!-- ======================= GITHUB STREAK ======================= -->
+### 3. BPL Players Market
 
-## 🔥 GitHub Streak
+**Cricket player selection app with player cards, coin management, and selection logic.**
 
-<p align="center">
+**Tech:** React · TypeScript · Tailwind CSS
 
-  <img
-    src="https://streak-stats.demolab.com?user=junayedhasan302&theme=midnight-purple&hide_border=true"
-    alt="GitHub Streak"
-  />
-
-</p>
+🔗 [Live Project](https://playermarket.netlify.app/)
 
 ---
 
-<!-- ======================= PROFILE VIEWS ======================= -->
+### 4. Hello World
 
-<p align="center">
+**A simple web project created while learning and practicing frontend development.**
 
-  <img
-    src="https://komarev.com/ghpvc/?username=junayedhasan302&label=Profile%20Views&color=6C3BD1&style=flat"
-    alt="Profile Views"
-  />
+**Tech:** HTML · CSS · JavaScript
 
-</p>
+🔗 [Live Project](https://heyhelloworld.netlify.app/)
 
 ---
 
-<!-- ======================= FOOTER ======================= -->
+### 5. World Cup 2026
 
-<p align="center">
+**A football World Cup 2026 themed web project with an interactive tournament experience.**
 
-  <i>
-    “Learning. Building. Improving. 🚀”
-  </i>
-</p>
+**Tech:** React · JavaScript · CSS
+
+🔗 [Live Project](https://world-cup-2026-green-beta.vercel.app/)
+
+---
+
+### 6. Country Explorer
+
+**Explore country information, flags, and visited countries using API data.**
+
+**Tech:** React · TypeScript · API
+
+🔗 [Live Project](https://heyhelloworld.netlify.app/)
+
+---
+
+## 📸 Beyond Code
+
+### What I enjoy
+
+| Interest | |
+|---|---|
+| 📸 | Street Photography |
+| ♟️ | Chess |
+| 🧮 | Mathematics |
+| 💻 | Web Development |
+
+---
+
+## 📬 Let's Connect
+
+### Have an idea or want to talk?
+
+Feel free to reach out. I'm always interested in discussing **technology, projects, photography, or new ideas.**
+
+📧 **Email:** [junayedhasan302@gmail.com](mailto:junayedhasan302@gmail.com)
+
+[**Send me an Email**](mailto:junayedhasan302@gmail.com)
+
+---
+
+## 🌃 Design / Visual Theme
+
+The original website uses a **cyberpunk / synthwave** visual style featuring:
+
+- 🌌 Dark purple-black background
+- 💙 Cyan neon highlights
+- 💗 Magenta neon highlights
+- ⚡ Animated lightning effects
+- 🏙️ Cyberpunk city skyline
+- 🚗 Moving neon cars
+- 💡 Flickering street lights
+- 🔲 Animated synthwave grid floor
+- 🖱️ Cursor light trail
+- 💥 Click ripple effects
+- 🧊 Glassmorphism card
+- 🎯 HUD-style profile image frame
+- 🌀 3D card tilt interaction
+- 📱 Responsive layout
+- ♿ Reduced-motion support
+
+> **Note:** Markdown can preserve the site's content, sections, links, and documentation, but CSS animations, cursor effects, 3D tilt, moving cars, lightning, and other interactive visual effects require HTML/CSS/JavaScript and cannot be reproduced by plain Markdown alone.
+'''
+
+path = Path("/mnt/data/junayed-portfolio.md")
+path.write_text(md, encoding="utf-8")
+
+print(f"Created: {path}")
