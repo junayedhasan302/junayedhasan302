@@ -70,7 +70,7 @@ building a solid foundation for my journey as a Web Developer.
 - 🚀 Exploring modern web technologies
 - 📚 Improving my problem-solving skills through practice
 - 🛠️ Building projects to gain practical experience
-
+- JS, TS, Reactjs, NextJS 
 ---
 
 <!-- ======================= TECH STACK ======================= -->
