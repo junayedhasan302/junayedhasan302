@@ -1,6 +1,6 @@
 <!-- ======================= BANNER ======================= -->
 <p align="center">
-  <img src="./banner.png" alt="Junayed Hasan GitHub Banner" width="100%">
+  <img src="./bannerUP.jpg" alt="Junayed Hasan GitHub Banner" width="100%">
 </p>
 
 <br/>
