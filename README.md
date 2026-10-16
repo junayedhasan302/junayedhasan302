@@ -6,7 +6,6 @@
 <br/>
 <h1 align="center">Hey 👋, I'm Junayed Hasan</h1>
 
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
