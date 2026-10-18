@@ -1,4 +1,4 @@
-<!-- ======================= BANNER ======================= -->
+<!-- ======================= BANNER ===================== -->
 <p align="center">
   <img src="./bannerUP.jpg" alt="Junayed Hasan GitHub Banner" width="100%">
 </p>
@@ -58,7 +58,7 @@ building a solid foundation for my journey as a Web Developer.
 
 ---
 
-<!-- ======================= CURRENTLY ======================= -->
+<!-- ======================= CURRENTLY ========================== -->
 
 ## 🔭 Currently
 
