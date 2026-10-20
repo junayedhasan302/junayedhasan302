@@ -1,4 +1,4 @@
-<!-- ======================= BANNER ===================== -->
+<!-- ======================= BANNER ================================= -->
 <p align="center">
   <img src="./bannerUP.jpg" alt="Junayed Hasan GitHub Banner" width="100%">
 </p>
@@ -14,7 +14,6 @@
     />
   </a>
 </p>
-
 <br/>
 
 ---
@@ -72,7 +71,7 @@ building a solid foundation for my journey as a Web Developer.
 - JS, TS, Reactjs, NextJS 
 ---
 
-<!-- ======================= TECH STACK ======================= -->
+<!-- ======================= TECH STACK ============================= -->
 
 ## 🛠️ Tech Stack
 
